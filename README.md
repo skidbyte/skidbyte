@@ -1,4 +1,3 @@
 - @skidbyte
-- cyber security specialist
-- currently learning chinese
-- all repositories privated, dont go looking 
+- vibr coded
+- all repositories private
