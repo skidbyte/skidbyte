@@ -1,3 +1,3 @@
 - @skidbyte
-- vibr coded
+- vibe coded
 - all repositories private
